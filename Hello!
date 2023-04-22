@@ -1,0 +1,9 @@
+name = input("Hello, What Is Your name? ")
+surname = input("What Is Your Surname? ")
+print("Good To See You In Our Team ",name, surname)
+exp = int(input(name + " How long you were coding? "))
+
+if (exp >= 4):
+    print(exp, " year is enaught to become a good Programer")
+else:
+    print(exp, "we have to work harder for your successful future")
