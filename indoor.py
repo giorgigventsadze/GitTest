@@ -1,4 +1,4 @@
-# examp N1
+# exmp N1
 name = input("What's yor name? ")
 print ("Hello", name.lower())
 surname = input("What's your surname? ")
